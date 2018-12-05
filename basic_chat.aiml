@@ -1,0 +1,18 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>MERHABA</pattern>
+        <template>
+            merhaba
+        </template>
+    </category>
+    
+    <category>
+        <pattern>NASILSIN</pattern>
+        <template>
+           	calisiyorum,siz?
+        </template>
+    </category>
+    
+</aiml>
